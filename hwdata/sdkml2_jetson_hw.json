@@ -1,0 +1,14 @@
+{
+    "information": {
+        "title": "Jetson HW releases",
+        "contentVersion": "0.0.1",
+        "buildNumber": "66",
+        "schemaVersion": "1"
+    },
+    "series": [
+        {
+            "id": "JETSON_ORIN_NX_TARGETS",
+            "uri": "./families/jetson/series/jetson-orin-nx-targets.json"
+        }
+    ]
+}
