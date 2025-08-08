@@ -15,7 +15,8 @@
                     "JETSON_ORIN_NANO_TARGETS",
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS"
+                    "RECOMPUTER_SUPER_TARGETS",
+                    "RECOMPUTER_INDUSTRIAL_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",
@@ -633,7 +634,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -694,7 +696,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -773,7 +776,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -836,7 +840,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -900,7 +905,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 2.23,
@@ -1086,7 +1092,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1249,7 +1256,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1312,7 +1320,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 1098.57,
@@ -1376,7 +1385,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 608.62,
@@ -1449,7 +1459,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 224.37,
@@ -1484,7 +1495,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1563,7 +1575,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1672,7 +1685,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1736,7 +1750,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1831,7 +1846,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -1928,7 +1944,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -2000,7 +2017,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     }
                 },
@@ -2060,7 +2078,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     }
                 }
@@ -2117,7 +2136,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 0,
@@ -2200,7 +2220,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 4.42
@@ -2285,7 +2306,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 7.83
@@ -2322,7 +2344,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2441,7 +2464,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2521,7 +2545,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2645,7 +2670,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 67.14
@@ -2742,7 +2768,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 1.39
@@ -2852,7 +2879,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "dependencies": [
@@ -3098,7 +3126,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 25.75
@@ -3183,7 +3212,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 92.37
@@ -3220,7 +3250,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3309,7 +3340,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3392,7 +3424,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3600,7 +3633,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 37.75
@@ -3634,7 +3668,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3762,7 +3797,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3840,7 +3876,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -4098,7 +4135,8 @@
                             "JETSON_ORIN_NANO_TARGETS",
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
-                            "RECOMPUTER_SUPER_TARGETS"
+                            "RECOMPUTER_SUPER_TARGETS",
+                            "RECOMPUTER_INDUSTRIAL_TARGETS"
                         ]
                     },
                     "installSizeMB": 0.95
