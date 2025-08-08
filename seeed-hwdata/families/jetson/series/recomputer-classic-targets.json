@@ -72,7 +72,7 @@
                     "Enter the username and password of your %{targetName}."
                 ]
             },
-            "singularName": "Jetson Orin Nano/NX module",
+            "singularName": "reComputer Classic Device",
             "id": "RECOMPUTER_CLASSIC_TARGETS"
         }
     }
