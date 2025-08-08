@@ -1,0 +1,42 @@
+﻿{
+    "information": {
+        "title": "Sdk Manager Linux Versions Releases",
+        "fileVersion": "1",
+        "fileRevision": 30,
+        "serverConfigurationBuild": "300"
+    },
+    "releases": [
+        {
+            "productCategory": "SDK Manager",
+            "targetOS": "Linux",
+            "serverType": [
+                "PID",
+                "DEVZONE"
+            ],
+            "id": "NV_SDKM_BUNDLE",
+            "title": "SDK Manager",
+            "releaseVersion": "2.3.0",
+            "releaseEdition": "",
+            "releaseEditionMessage": "",
+            "releaseBuild": "b12617",
+            "releaseRevision": 0,
+            "minSDKMVer": "",
+            "targetType": "",
+            "releaseMessage": "<div><span class=\"tooltip-title\">What's new in SDK Manager 2.3.0:</span><ul><li>Windows OS Support in NVIDIA SDK Manager:</li><ul><li>SDK Manager 2.3 now supports Windows 10 and Windows 11 on x86_64 hosts.</li><li>SDK Manager supports both graphical (GUI) and command-line (CLI) modes of operation.</li><li>SDK installation session now supports automatic host restart and resume.</li><li>Added support of RAPIDS 25.04 installation on Windows via Windows Subsystem for Linux (WSL).</li></ul><li>Improved the user workflow for flashing and installing Jetpack SDKs for a smoother user experience.</li><li>Bug fixes and stability improvements.</li></ul>",
+            "pidGroupId": "",
+            "targetHW": [],
+            "updateInfo": [
+                {
+                    "buildNumber": "[^0|b0]+",
+                    "version": "^0\\.9\\.([1-9]{2,}|[2-9]\\d+|1[1-9])$"
+                }
+            ],
+            "supportedHW": [
+                "host",
+                "target"
+            ],
+            "IntHWSupport": false,
+            "compRepoURL": "https://developer.download.nvidia.com/sdkmanager/client_update/sdkml3_sdkm_2.3.0_linux.json"
+        }
+    ]
+}

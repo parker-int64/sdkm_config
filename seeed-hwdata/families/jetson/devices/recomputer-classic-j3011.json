@@ -1,0 +1,36 @@
+{
+    "information": {
+        "title": null,
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "hw": {
+        "RECOMPUTER_CLASSIC_J3011": {
+            "name": "reComputer Classic J3011",
+            "products": [
+                "Jetson"
+            ],
+            "deviceIdentificationDetails": {
+                "moduleNames": [
+                    "P3767-0003 [8GB]"
+                ],
+                "moduleIds": [
+                    "3767-0003"
+                ],
+                "moduleDescription": "Jetson Orin Nano 8GB Module",
+                "tegraRecoveryModeCodes": [
+                    "0955:7523"
+                ],
+                "carrierIds": [
+                    "j401c-0000"
+                ],
+                "carrierDescription": "reComputer J401 carrier board",
+                "bootRomPreflashVerification": true
+            },
+            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-classic-j30-40.png",
+            "storages": [],
+            "id": "RECOMPUTER_CLASSIC_J3011"
+        }
+    }
+}

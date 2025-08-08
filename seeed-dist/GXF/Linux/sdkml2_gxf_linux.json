@@ -1,0 +1,115 @@
+{
+    "information": {
+        "title": "Gxf Linux Versions Releases",
+        "fileVersion": "1",
+        "fileRevision": 4,
+        "serverConfigurationBuild": "99"
+    },
+    "releases": [
+        {
+            "productDisplayName": "GXF Runtime",
+            "serverType": [
+                "DEVZONE"
+            ],
+            "title": "GXF Runtime 4.1",
+            "releaseRevision": 0,
+            "minSDKMVer": "2.2.0",
+            "releaseMessage": "GXF Runtime and Graph Composer Installers, with the Reference Graphs - GXF reference graphs based on deepstream sdk's sample applications, and V4l2 Dependency - Dependencies for multimedia extensions.\n*Host components only supports in Ubuntu 22.04.",
+            "pidGroupId": "-1",
+            "devzoneProgramId": ["874688"],
+            "hostOperatingSystemsSupportFor": {
+                "hostGroups": [
+                    "ubuntu22.04"
+                ],
+                "targetGroups": [
+                    "ubuntu20.04",
+                    "ubuntu22.04",
+                    "ubuntu24.04"
+                ]
+            },
+            "IntHWSupport": false,
+            "releaseNotes": {
+                "releaseNotesTooltip": "<div><span class=\"tooltip-title\">What's new in GXF Core 4.1:</span><ul><li></li></ul></div>",
+                "releaseNotesURL": "",
+                "releaseNotesDownload": false
+            },
+            "showInMainList": true,
+            "isAdditionalSDK": true,
+            "SDKsRelations": [
+                {
+                    "default": "off",
+                    "parent": {
+                        "title": "JetPack 6.2.1",
+                        "releaseRevision": 0,
+                        "productCategory": "Jetson",
+                        "targetOS": "Linux",
+                        "releaseVersion": "6.2.1",
+                        "releaseEdition": ""
+                    },
+                    "depends": [],
+                    "conflicts": []
+                },
+                {
+                    "default": "off",
+                    "parent": {
+                        "title": "JetPack 6.2",
+                        "releaseRevision": 1,
+                        "productCategory": "Jetson",
+                        "targetOS": "Linux",
+                        "releaseVersion": "6.2",
+                        "releaseEdition": ""
+                    },
+                    "depends": [],
+                    "conflicts": []
+                },
+                {
+                    "default": "off",
+                    "parent": {
+                        "title": "JetPack 6.1",
+                        "releaseRevision": 1,
+                        "productCategory": "Jetson",
+                        "targetOS": "Linux",
+                        "releaseVersion": "6.1",
+                        "releaseEdition": ""
+                    },
+                    "depends": [],
+                    "conflicts": []
+                }
+            ],
+            "architectures": [
+                "x86_64",
+                "x86_64-wsl"
+            ],
+            "locked": false,
+            "productCategory": "GXF",
+            "targetOS": "Linux",
+            "releaseVersion": "4.1",
+            "releaseEdition": "",
+            "installedOn": [
+                "target",
+                "host"
+            ],
+            "description": "GXF Runtime and Graph Composer Installers, with the Reference Graphs - GXF reference graphs based on deepstream sdk's sample applications, and V4l2 Dependency - Dependencies for multimedia extensions.\n*Host components only supports in Ubuntu 22.04.",
+            "canInstallStandAlone": false,
+            "targetHW": [
+                "JETSON_AGX_ORIN_TARGETS",
+                "JETSON_ORIN_NX_TARGETS",
+                "JETSON_ORIN_NANO_TARGETS",
+                "RECOMPUTER_CLASSIC_TARGETS",
+                "RECOMPUTER_MINI_TARGETS",
+                "RECOMPUTER_SUPER_TARGETS",
+                "IGX_ORIN_DEVKIT_DGPU_TARGETS",
+                "IGX_ORIN_DEVKIT_IGPU_TARGETS"
+            ],
+            "id": "NV_JETPACK_ADDITIONAL_SDK_GFX",
+            "hasTargetComponents": true,
+            "hardwareConfiguration": [
+                "host",
+                "target"
+            ],
+            "releaseBuild": "",
+            "schemaVersion": "20.0",
+            "compRepoURL": "https://developer.nvidia.com/downloads/assets/embedded/secure/tools/files/jetpack-sdks/gxf-runtime-4.1/gxf_41_b57/sdkml3_gxf_runtime_41.json"
+        }
+    ]
+}

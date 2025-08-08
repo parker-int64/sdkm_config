@@ -1,0 +1,66 @@
+{
+    "information": {
+        "title": "SDK Manager supported releases index",
+        "version": "12",
+        "revision": 0,
+        "serverConfigurationBuild": "1003D584J23C132DOCA"
+    },
+    "productCategories": [
+        {
+            "categoryName": "Jetson",
+            "productLines": [
+                {
+                    "targetOS": "Linux",
+                    "targetType": "",
+                    "serverType": [
+                        "PID",
+                        "DEVZONE"
+                    ],
+                    "releasesIndexURL": "../Jetson/Linux/sdkml2_jetson_linux.json"
+                }
+            ]
+        },
+        {
+            "categoryName": "Deepstream",
+            "productLines": [
+                {
+                    "targetOS": "Linux",
+                    "targetType": "",
+                    "serverType": [
+                        "PID",
+                        "DEVZONE"
+                    ],
+                    "releasesIndexURL": "../Deepstream/Linux/sdkml2_deepstream_linux.json"
+                }
+            ]
+        },
+        {
+            "categoryName": "Gxf",
+            "productLines": [
+                {
+                    "targetOS": "Linux",
+                    "targetType": "",
+                    "serverType": [
+                        "PID",
+                        "DEVZONE"
+                    ],
+                    "releasesIndexURL": "../GXF/Linux/sdkml2_gxf_linux.json"
+                }
+            ]
+        },
+        {
+            "categoryName": "SDK Manager",
+            "productLines":[
+                {
+                    "targetOS": "",
+                    "targetType": "",
+                    "serverType": [
+                        "PID",
+                        "DEVZONE"
+                    ],
+                    "releasesIndexURL": "../SDKMANAGER/Linux/sdkml2_sdkmanager_linux.json"
+                }
+            ]
+        }
+    ]
+}

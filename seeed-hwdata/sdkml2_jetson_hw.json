@@ -1,0 +1,22 @@
+{
+    "information": {
+        "title": "Seeed Jetson HW releases",
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "series": [
+        {
+            "id": "RECOMPUTER_CLASSIC_TARGETS",
+            "uri": "./families/jetson/series/recomputer-classic-targets.json"
+        },
+        {
+            "id": "RECOMPUTER_MINI_TARGETS",
+            "uri": "./families/jetson/series/recomputer-mini-targets.json"
+        },
+        {
+            "id": "RECOMPUTER_SUPER_TARGETS",
+            "uri": "./families/jetson/series/recomputer-super-targets.json"
+        }
+    ]
+}
