@@ -28,7 +28,7 @@
                 "carrierDescription": "reComputer J401 Super carrier board",
                 "bootRomPreflashVerification": true
             },
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-classic-j30-40.png",
+            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-super-j30-40.png",
             "storages": [],
             "id": "RECOMPUTER_SUPER_J3011"
         }
