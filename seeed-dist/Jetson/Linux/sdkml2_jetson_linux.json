@@ -18,7 +18,8 @@
                     "JETSON_ORIN_NANO_TARGETS",
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS"
+                    "RECOMPUTER_SUPER_TARGETS",
+                    "RECOMPUTER_INDUSTRIAL_TARGETS"
                 ]
             },
             "minSDKMVer": "2.3.0",
@@ -81,7 +82,8 @@
                     "JETSON_ORIN_NANO_TARGETS",
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS"
+                    "RECOMPUTER_SUPER_TARGETS",
+                    "RECOMPUTER_INDUSTRIAL_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",
@@ -184,7 +186,8 @@
                     "JETSON_ORIN_NANO_TARGETS",
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS"
+                    "RECOMPUTER_SUPER_TARGETS",
+                    "RECOMPUTER_INDUSTRIAL_TARGETS"
                 ],
                 "excludedDeviceIds": [
                     "JETSON_ORIN_NANO_8GB_DEVKIT"
@@ -249,7 +252,8 @@
                 "JETSON_ORIN_NANO_TARGETS",
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS"
+                "RECOMPUTER_SUPER_TARGETS",
+                "RECOMPUTER_INDUSTRIAL_TARGETS"
             ],
             "id": "",
             "hasTargetComponents": true,
@@ -310,7 +314,7 @@
                 "JETSON_ORIN_NANO_TARGETS",
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS"
+                "RECOMPUTER_INDUSTRIAL_TARGETS"
             ],
             "id": "",
             "hasTargetComponents": true,
@@ -341,7 +345,7 @@
                 "JETSON_ORIN_NANO_TARGETS",
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS"
+                "RECOMPUTER_INDUSTRIAL_TARGETS"
             ],
             "hostOperatingSystemsSupportFor": {
                 "hostGroups": [

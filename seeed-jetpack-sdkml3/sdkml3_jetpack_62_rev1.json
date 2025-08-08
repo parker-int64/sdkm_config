@@ -1633,7 +1633,7 @@
                             "url": "http://127.0.0.1:8000/seeed-bsp/r36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
-                            "checksum": "166130bf835794216e8475357995c5a1",
+                            "checksum": "1661ec4519d7e0d6607edcce40badb1b",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
                             "packageInstallParameters": {
@@ -1697,7 +1697,7 @@
                             "url": "http://127.0.0.1:8000/seeed-bsp/r36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
-                            "checksum": "166130bf835794216e8475357995c5a1",
+                            "checksum": "1661ec4519d7e0d6607edcce40badb1b",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
                             "packageInstallParameters": {
@@ -1806,6 +1806,9 @@
                                             "  RECOMPUTER_SUPER_TARGETS)",
                                             "    echo 'Use reComputer super J401 config.'",
                                             "    ln -sf recomputer-orin-super-j401.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RECOMPUTER_INDUSTRIAL_TARGETS)",
+                                            "    echo 'Use reComputer industrial J201 config.'",
+                                            "    ln -sf recomputer-industrial-orin-j201.conf jetson-orin-nano-devkit.conf ;;",
                                             "  *)",
                                             "    echo 'Unknown BOARD_ID: $BOARD_ID'",
                                             "    exit 1;;",

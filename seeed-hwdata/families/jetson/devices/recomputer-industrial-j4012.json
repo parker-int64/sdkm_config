@@ -1,0 +1,36 @@
+{
+    "information": {
+        "title": null,
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "hw": {
+        "RECOMPUTER_INDUSTRIAL_J4012": {
+            "name": "reComputer Industrial J4012",
+            "products": [
+                "Jetson"
+            ],
+            "deviceIdentificationDetails": {
+                "moduleNames": [
+                    "P3767-0000 [16GB]"
+                ],
+                "moduleIds": [
+                    "3767-0000"
+                ],
+                "moduleDescription": "Jetson Orin NX 16GB Module",
+                "tegraRecoveryModeCodes": [
+                    "0955:7323"
+                ],
+                "carrierIds": [
+                    "j201i-0000"
+                ],
+                "carrierDescription": "reComputer J201 industrial carrier board",
+                "bootRomPreflashVerification": true
+            },
+            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-industrial-j20-30-40.png",
+            "storages": [],
+            "id": "RECOMPUTER_INDUSTRIAL_J4012"
+        }
+    }
+}

@@ -97,6 +97,7 @@
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
                 "RECOMPUTER_SUPER_TARGETS",
+                "RECOMPUTER_INDUSTRIAL_TARGETS",
                 "JETSON_ORIN_NANO_TARGETS",
                 "IGX_ORIN_DEVKIT_DGPU_TARGETS",
                 "IGX_ORIN_DEVKIT_IGPU_TARGETS"
@@ -128,6 +129,7 @@
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
                 "RECOMPUTER_SUPER_TARGETS",
+                "RECOMPUTER_INDUSTRIAL_TARGETS",
                 "JETSON_ORIN_NANO_TARGETS",
                 "IGX_ORIN_DEVKIT_DGPU_TARGETS",
                 "IGX_ORIN_DEVKIT_IGPU_TARGETS"
@@ -205,7 +207,8 @@
                 "JETSON_ORIN_NX_TARGETS",
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS"
+                "RECOMPUTER_SUPER_TARGETS",
+                "RECOMPUTER_INDUSTRIAL_TARGETS"
             ],
             "hostOperatingSystemsSupportFor": {
                 "hostGroups": [
@@ -318,7 +321,8 @@
                 "JETSON_ORIN_NX_TARGETS",
                 "RECOMPUTER_CLASSIC_TARGETS",
                 "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS"
+                "RECOMPUTER_SUPER_TARGETS",
+                "RECOMPUTER_INDUSTRIAL_TARGETS"
             ],
             "hostOperatingSystemsSupportFor": {
                 "hostGroups": [
