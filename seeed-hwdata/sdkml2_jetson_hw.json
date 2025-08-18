@@ -21,6 +21,10 @@
         {
             "id": "RECOMPUTER_INDUSTRIAL_TARGETS",
             "uri": "./families/jetson/series/recomputer-industrial-targets.json"
+        },
+        {
+            "id": "RECOMPUTER_ROBOTICS_TARGETS",
+            "uri": "./families/jetson/series/recomputer-robotics-targets.json"
         }
     ]
 }

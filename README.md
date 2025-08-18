@@ -7,13 +7,13 @@ Usage:
 + Setup a temporary `http` server (make sure Python3 is installed):
 
 ``` sh
-./host_file.sh
+./scripts/host_file.sh
 ```
 
 + Launch SDK Manager with customized configuration files
 
 ``` sh
-./launch_sdkm.sh
+./scripts/launch_sdkm.sh
 ```
 
 # Changelog

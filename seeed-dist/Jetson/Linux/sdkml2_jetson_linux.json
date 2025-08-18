@@ -15,11 +15,7 @@
                 "seriesIds": [
                     "JETSON_AGX_ORIN_TARGETS",
                     "JETSON_ORIN_NX_TARGETS",
-                    "JETSON_ORIN_NANO_TARGETS",
-                    "RECOMPUTER_CLASSIC_TARGETS",
-                    "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS",
-                    "RECOMPUTER_INDUSTRIAL_TARGETS"
+                    "JETSON_ORIN_NANO_TARGETS"
                 ]
             },
             "minSDKMVer": "2.3.0",
@@ -83,7 +79,8 @@
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
                     "RECOMPUTER_SUPER_TARGETS",
-                    "RECOMPUTER_INDUSTRIAL_TARGETS"
+                    "RECOMPUTER_INDUSTRIAL_TARGETS",
+                    "RECOMPUTER_ROBOTICS_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",
@@ -183,11 +180,7 @@
                 "seriesIds": [
                     "JETSON_AGX_ORIN_TARGETS",
                     "JETSON_ORIN_NX_TARGETS",
-                    "JETSON_ORIN_NANO_TARGETS",
-                    "RECOMPUTER_CLASSIC_TARGETS",
-                    "RECOMPUTER_MINI_TARGETS",
-                    "RECOMPUTER_SUPER_TARGETS",
-                    "RECOMPUTER_INDUSTRIAL_TARGETS"
+                    "JETSON_ORIN_NANO_TARGETS"
                 ],
                 "excludedDeviceIds": [
                     "JETSON_ORIN_NANO_8GB_DEVKIT"
@@ -249,11 +242,7 @@
                 "JETSON_XAVIER_NX_TARGETS",
                 "JETSON_AGX_ORIN_TARGETS",
                 "JETSON_ORIN_NX_TARGETS",
-                "JETSON_ORIN_NANO_TARGETS",
-                "RECOMPUTER_CLASSIC_TARGETS",
-                "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_SUPER_TARGETS",
-                "RECOMPUTER_INDUSTRIAL_TARGETS"
+                "JETSON_ORIN_NANO_TARGETS"
             ],
             "id": "",
             "hasTargetComponents": true,
@@ -311,10 +300,7 @@
                 "JETSON_XAVIER_NX_TARGETS",
                 "JETSON_AGX_ORIN_TARGETS",
                 "JETSON_ORIN_NX_TARGETS",
-                "JETSON_ORIN_NANO_TARGETS",
-                "RECOMPUTER_CLASSIC_TARGETS",
-                "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_INDUSTRIAL_TARGETS"
+                "JETSON_ORIN_NANO_TARGETS"
             ],
             "id": "",
             "hasTargetComponents": true,
@@ -342,10 +328,7 @@
                 "JETSON_XAVIER_NX_TARGETS",
                 "JETSON_AGX_ORIN_TARGETS",
                 "JETSON_ORIN_NX_TARGETS",
-                "JETSON_ORIN_NANO_TARGETS",
-                "RECOMPUTER_CLASSIC_TARGETS",
-                "RECOMPUTER_MINI_TARGETS",
-                "RECOMPUTER_INDUSTRIAL_TARGETS"
+                "JETSON_ORIN_NANO_TARGETS"
             ],
             "hostOperatingSystemsSupportFor": {
                 "hostGroups": [
