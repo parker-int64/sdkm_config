@@ -99,6 +99,7 @@
                 "RECOMPUTER_MINI_TARGETS",
                 "RECOMPUTER_SUPER_TARGETS",
                 "RECOMPUTER_INDUSTRIAL_TARGETS",
+                "RECOMPUTER_ROBOTICS_TARGETS",
                 "IGX_ORIN_DEVKIT_DGPU_TARGETS",
                 "IGX_ORIN_DEVKIT_IGPU_TARGETS"
             ],

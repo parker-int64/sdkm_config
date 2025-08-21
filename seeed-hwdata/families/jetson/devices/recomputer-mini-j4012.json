@@ -28,7 +28,7 @@
                 "carrierDescription": "reComputer J401 mini carrier board",
                 "bootRomPreflashVerification": true
             },
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-mini-j30-40.jpg",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-mini-j30-40.jpg",
             "storages": [],
             "id": "RECOMPUTER_MINI_J4012"
         }

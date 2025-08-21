@@ -64,13 +64,13 @@
             ],
             "releaseBuild": "",
             "schemaVersion": "22.0",
-            "compRepoURL": "http://127.0.0.1:8000/seeed-jetpack-sdkml3/sdkml3_jetpack_621.json"
+            "compRepoURL": "http://seeed-projects.github.io/SeeedSDKM/seeed-jetpack-sdkml3/sdkml3_jetpack_621.json"
         },
         {
             "title": "JetPack 6.2",
             "productDisplayName": "Jetson",
             "releaseRevision": 1,
-            "showInMainList": false,
+            "showInMainList": true,
             "supportedHardware": {
                 "seriesIds": [
                     "JETSON_AGX_ORIN_TARGETS",
@@ -129,7 +129,7 @@
             ],
             "releaseBuild": "",
             "schemaVersion": "22.0",
-            "compRepoURL": "http://127.0.0.1:8000/seeed-jetpack-sdkml3/sdkml3_jetpack_62_rev1.json"
+            "compRepoURL": "http://seeed-projects.github.io/SeeedSDKM/seeed-jetpack-sdkml3/sdkml3_jetpack_62_rev1.json"
         },
         {
             "productDisplayName": "Jetson",

@@ -16,12 +16,20 @@
                 {
                     "uri": "../devices/recomputer-mini-j3011.json",
                     "id": "RECOMPUTER_MINI_J3011"
+                },
+                {
+                    "uri": "../devices/recomputer-mini-j3010.json",
+                    "id": "RECOMPUTER_MINI_J3010"
+                },
+                {
+                    "uri": "../devices/recomputer-mini-j4011.json",
+                    "id": "RECOMPUTER_MINI_J4011"
                 }
             ],
             "products": [
                 "Jetson"
             ],
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-mini-j30-40.jpg",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-mini-j30-40.jpg",
             "storages": [
                 {
                     "id": "nvme",

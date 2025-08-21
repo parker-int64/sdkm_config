@@ -7,7 +7,7 @@
     },
     "hw": {
         "RECOMPUTER_ROBOTICS_J3011": {
-            "name": "reComputer Super J3011",
+            "name": "reComputer Robotics J3011",
             "products": [
                 "Jetson"
             ],
@@ -28,7 +28,7 @@
                 "carrierDescription": "reComputer J401 robotics carrier board",
                 "bootRomPreflashVerification": true
             },
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-super-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-robotics-j30-40.jpg",
             "storages": [],
             "id": "RECOMPUTER_ROBOTICS_J3011"
         }

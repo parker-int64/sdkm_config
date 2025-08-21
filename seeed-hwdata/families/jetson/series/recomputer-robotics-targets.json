@@ -10,25 +10,27 @@
             "name": "reComputer Robotics devices (with GLSM)",
             "devices": [
                 {
-                    "uri": "../devices/recomputer-robotics-j4012.json",
-                    "id": "RECOMPUTER_ROBOTICS_J4012"
+                    "uri": "../devices/recomputer-robotics-j3010.json",
+                    "id": "RECOMPUTER_ROBOTICS_J3010"
                 },
                 {
                     "uri": "../devices/recomputer-robotics-j3011.json",
                     "id": "RECOMPUTER_ROBOTICS_J3011"
+                },
+                {
+                    "uri": "../devices/recomputer-robotics-j4011.json",
+                    "id": "RECOMPUTER_ROBOTICS_J4011"
+                },
+                {
+                    "uri": "../devices/recomputer-robotics-j4012.json",
+                    "id": "RECOMPUTER_ROBOTICS_J4012"
                 }
             ],
             "products": [
                 "Jetson"
             ],
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-super-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-robotics-j30-40.jpg",
             "storages": [
-                {
-                    "id": "sdcard",
-                    "displayName": "SD Card",
-                    "flashOptions": "--storage mmcblk1p1",
-                    "note": "A minimum of 64GB space is recommended on the flash drive for SDCard storage.\nYou may need to turn off your firewall or set up your firewall to allow NFS in order to flash if you have one running.\nYou may need to manually change the device boot order after flashing."
-                },
                 {
                     "id": "nvme",
                     "displayName": "NVMe",
@@ -72,7 +74,7 @@
                     "Enter the username and password of your %{targetName}."
                 ]
             },
-            "singularName": "reComputer Super Device",
+            "singularName": "reComputer Robotics Device",
             "id": "RECOMPUTER_ROBOTICS_TARGETS"
         }
     }

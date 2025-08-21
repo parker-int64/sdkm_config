@@ -10,25 +10,27 @@
             "name": "reComputer Classic devices",
             "devices": [
                 {
-                    "uri": "../devices/recomputer-classic-j4012.json",
-                    "id": "RECOMPUTER_CLASSIC_J4012"
+                    "uri": "../devices/recomputer-classic-j3010.json",
+                    "id": "RECOMPUTER_CLASSIC_J3010"
                 },
                 {
                     "uri": "../devices/recomputer-classic-j3011.json",
                     "id": "RECOMPUTER_CLASSIC_J3011"
+                },
+                {
+                    "uri": "../devices/recomputer-classic-j4011.json",
+                    "id": "RECOMPUTER_CLASSIC_J4011"
+                },
+                {
+                    "uri": "../devices/recomputer-classic-j4012.json",
+                    "id": "RECOMPUTER_CLASSIC_J4012"
                 }
             ],
             "products": [
                 "Jetson"
             ],
-            "imagePath": "http://127.0.0.1:8000/seeed-hwdata/productImage/recomputer-classic-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-classic-j30-40.png",
             "storages": [
-                {
-                    "id": "sdcard",
-                    "displayName": "SD Card",
-                    "flashOptions": "--storage mmcblk1p1",
-                    "note": "A minimum of 64GB space is recommended on the flash drive for SDCard storage.\nYou may need to turn off your firewall or set up your firewall to allow NFS in order to flash if you have one running.\nYou may need to manually change the device boot order after flashing."
-                },
                 {
                     "id": "nvme",
                     "displayName": "NVMe",

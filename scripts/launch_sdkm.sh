@@ -9,4 +9,4 @@ rm -rvf ~/.nvsdkm/dist
 
 echo "Start SDK Manager"
 
-sdkmanager --hw-server http://127.0.0.1:8000/seeed-hwdata/sdkml1_repo_hw.json --server http://127.0.0.1:8000/seeed-dist/main/sdkml1_repo.json
+sdkmanager --hw-server http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/sdkml1_repo_hw.json --server http://seeed-projects.github.io/SeeedSDKM/seeed-dist/main/sdkml1_repo.json

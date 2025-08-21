@@ -6,31 +6,31 @@
         "schemaVersion": "1"
     },
     "hw": {
-        "RECOMPUTER_INDUSTRIAL_J4012": {
-            "name": "reComputer Industrial J4012",
+        "RECOMPUTER_ROBOTICS_J4011": {
+            "name": "reComputer Robotics J4011",
             "products": [
                 "Jetson"
             ],
             "deviceIdentificationDetails": {
                 "moduleNames": [
-                    "P3767-0000 [16GB]"
+                    "P3767-0001 [8GB]"
                 ],
                 "moduleIds": [
-                    "3767-0000"
+                    "3767-0001"
                 ],
-                "moduleDescription": "Jetson Orin NX 16GB Module",
+                "moduleDescription": "Jetson Orin NX 8GB Module",
                 "tegraRecoveryModeCodes": [
-                    "0955:7323"
+                    "0955:7423"
                 ],
                 "carrierIds": [
-                    "j201i-0000"
+                    "j401r-0000"
                 ],
-                "carrierDescription": "reComputer J201 industrial carrier board",
+                "carrierDescription": "reComputer J401 robotics carrier board",
                 "bootRomPreflashVerification": true
             },
-            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-industrial-j20-30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-robotics-j30-40.jpg",
             "storages": [],
-            "id": "RECOMPUTER_INDUSTRIAL_J4012"
+            "id": "RECOMPUTER_ROBOTICS_J4011"
         }
     }
 }

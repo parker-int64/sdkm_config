@@ -18,6 +18,7 @@ Usage:
 
 # Changelog
 
+2025/08/18: Add the reComputer Robotics Entry. 
 
 2025/08/06: Added custom hardware and software support for first page.
 

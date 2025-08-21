@@ -16,7 +16,8 @@
                     "RECOMPUTER_CLASSIC_TARGETS",
                     "RECOMPUTER_MINI_TARGETS",
                     "RECOMPUTER_SUPER_TARGETS",
-                    "RECOMPUTER_INDUSTRIAL_TARGETS"
+                    "RECOMPUTER_INDUSTRIAL_TARGETS",
+                    "RECOMPUTER_ROBOTICS_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",
@@ -635,7 +636,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -697,7 +699,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -777,7 +780,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -841,7 +845,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -906,7 +911,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 2.23,
@@ -1093,7 +1099,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1257,7 +1264,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1321,7 +1329,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 1098.57,
@@ -1386,7 +1395,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 608.62,
@@ -1460,7 +1470,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 224.37,
@@ -1496,7 +1507,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1576,7 +1588,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1643,10 +1656,10 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "http://127.0.0.1:8000/seeed-bsp/r36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
-                            "checksum": "1661ec4519d7e0d6607edcce40badb1b",
+                            "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
                             "packageInstallParameters": {
@@ -1686,7 +1699,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1708,10 +1722,10 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "http://127.0.0.1:8000/seeed-bsp/r36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
-                            "checksum": "1661ec4519d7e0d6607edcce40badb1b",
+                            "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
                             "packageInstallParameters": {
@@ -1751,7 +1765,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1813,6 +1828,9 @@
                                             "BOARD_ID={{BOARD_ID}}",
                                             "case \"$BOARD_ID\" in",
                                             "  RECOMPUTER_CLASSIC_TARGETS)",
+                                            "    echo 'Copy IMX219 and IMX477 dtbo to rootfs.'",
+                                            "    sudo cp kernel/dtb/tegra234-p3767-camera-p3768-imx219-dual-seeed.dtbo rootfs/boot/",
+                                            "    sudo cp kernel/dtb/tegra234-p3767-camera-p3768-imx477-dual-seeed.dtbo rootfs/boot/",
                                             "    echo 'Use reComputer Classic J401 config.'",
                                             "    ln -sf recomputer-orin-j401.conf jetson-orin-nano-devkit.conf ;;",
                                             "  RECOMPUTER_MINI_TARGETS)",
@@ -1824,6 +1842,13 @@
                                             "  RECOMPUTER_INDUSTRIAL_TARGETS)",
                                             "    echo 'Use reComputer industrial J201 config.'",
                                             "    ln -sf recomputer-industrial-orin-j201.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RECOMPUTER_ROBOTICS_TARGETS)",
+                                            "    echo 'Copy GMSL dtbo to rootfs.'",
+                                            "    sudo cp kernel/dtb/tegra234-seeed-gmsl1x4-3g-overlay.dtbo rootfs/boot/",
+                                            "    sudo cp kernel/dtb/tegra234-seeed-gmsl1x4-6g-overlay.dtbo rootfs/boot/",
+                                            "    sudo cp kernel/dtb/tegra234-seeed-orbbec-335lg-overlay.dtbo rootfs/boot/",
+                                            "    echo 'Use reComputer Robotics J401 (GMSL) config.'",
+                                            "    ln -sf recomputer-orin-robotics-j401-gmsl.conf jetson-orin-nano-devkit.conf ;;",
                                             "  *)",
                                             "    echo 'Unknown BOARD_ID: $BOARD_ID'",
                                             "    exit 1;;",
@@ -1847,7 +1872,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -1945,7 +1971,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -2018,7 +2045,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     }
                 },
@@ -2079,7 +2107,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     }
                 }
@@ -2137,7 +2166,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 0,
@@ -2221,7 +2251,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 4.42
@@ -2307,7 +2338,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 7.83
@@ -2345,7 +2377,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2465,7 +2498,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2546,7 +2580,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2671,7 +2706,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 67.14
@@ -2769,7 +2805,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 1.39
@@ -2880,7 +2917,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "dependencies": [
@@ -3127,7 +3165,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 25.75
@@ -3213,7 +3252,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 92.37
@@ -3251,7 +3291,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3341,7 +3382,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3425,7 +3467,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3634,7 +3677,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 37.75
@@ -3669,7 +3713,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3798,7 +3843,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3877,7 +3923,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -4136,7 +4183,8 @@
                             "RECOMPUTER_CLASSIC_TARGETS",
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
-                            "RECOMPUTER_INDUSTRIAL_TARGETS"
+                            "RECOMPUTER_INDUSTRIAL_TARGETS",
+                            "RECOMPUTER_ROBOTICS_TARGETS"
                         ]
                     },
                     "installSizeMB": 0.95
