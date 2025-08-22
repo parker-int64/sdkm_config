@@ -1682,7 +1682,7 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "http://files.seeedstudio.com/wiki/reComputer-BSP/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
                             "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
@@ -1750,7 +1750,7 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "http://files.seeedstudio.com/wiki/reComputer-BSP/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
                             "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
@@ -1879,6 +1879,14 @@
                                             "    sudo cp kernel/dtb/tegra234-seeed-orbbec-335lg-overlay.dtbo rootfs/boot/",
                                             "    echo 'Use reComputer Robotics J401 (GMSL) config.'",
                                             "    ln -sf recomputer-orin-robotics-j401-gmsl.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RESERVER_INDUSTRIAL_ORIN_TARGETS)",
+                                            "    echo 'Use reServer industrial J401 config.'",
+                                            "    ln -sf reserver-industrial-orin-j401.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS)",
+                                            "    echo 'Copy dual channel GMSL dtbo to rootfs.'",
+                                            "    sudo cp kernel/dtb/tegra234-seeed-gmsl2x4-3g-overlay.dtbo rootfs/boot/",
+                                            "    echo 'Use reServer industrial J501 (GMSL) config.'",
+                                            "    ln -sf reserver-agx-orin-j501x-gmsl.conf jetson-agx-orin-devkit.conf ;;",
                                             "  *)",
                                             "    echo 'Unknown BOARD_ID: $BOARD_ID'",
                                             "    exit 1;;",

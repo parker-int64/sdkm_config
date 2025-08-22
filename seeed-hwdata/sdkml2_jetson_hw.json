@@ -25,6 +25,14 @@
         {
             "id": "RECOMPUTER_ROBOTICS_TARGETS",
             "uri": "./families/jetson/series/recomputer-robotics-targets.json"
+        },
+        {
+            "id": "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+            "uri": "./families/jetson/series/reserver-industrial-orin-targets.json"
+        },
+        {
+            "id": "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS",
+            "uri": "./families/jetson/series/reserver-industrial-agx-orin-targets.json"
         }
     ]
 }

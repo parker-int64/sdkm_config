@@ -6,8 +6,8 @@
         "schemaVersion": "1"
     },
     "hw": {
-        "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS": {
-            "name": "Jetson AGX Orin 32GB",
+        "RESERVER_INDUSTRIAL_J501_AGX_ORIN_32": {
+            "name": "reServer Industrial J501 & Jetson AGX Orin 32GB",
             "products": [
                 "Jetson"
             ],
@@ -18,7 +18,7 @@
                 "moduleIds": [
                     "3701-0004"
                 ],
-                "moduleDescription": "P3701-0004 module",
+                "moduleDescription": "Jetson AGX Orin 32GB Module",
                 "tegraRecoveryModeCodes": [
                     "0955:7223"
                 ],
@@ -30,7 +30,7 @@
             },
             "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j501.jpg",
             "storages": [],
-            "id": "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
+            "id": "RESERVER_INDUSTRIAL_J501_AGX_ORIN_32"
         }
     }
 }

@@ -7,7 +7,7 @@
     },
     "hw": {
         "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS": {
-            "name": "reServer Industrial AGX Orin devices",
+            "name": "reServer AGX Orin devices (with GMSL)",
             "devices": [
                 {
                     "id": "RESERVER_INDUSTRIAL_J501_AGX_ORIN_32",
@@ -71,7 +71,7 @@
                     "Enter the username and password of your %{targetName}."
                 ]
             },
-            "singularName": "reServer Industrial AGX Orin Device",
+            "singularName": "reServer AGX Orin Device",
             "id": "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
         }
     }
