@@ -6,30 +6,30 @@
         "schemaVersion": "1"
     },
     "hw": {
-        "RECOMPUTER_SUPER_TARGETS": {
-            "name": "reComputer Super devices",
+        "RESERVER_INDUSTRIAL_ORIN_TARGETS": {
+            "name": "reServer Industrial Jetson Orin devices",
             "devices": [
                 {
-                    "uri": "../devices/recomputer-super-j3010.json",
-                    "id": "RECOMPUTER_SUPER_J3010"
+                    "uri": "../devices/reserver-industrial-j3010.json",
+                    "id": "RESERVER_INDUSTRIAL_J3010"
                 },
                 {
-                    "uri": "../devices/recomputer-super-j3011.json",
-                    "id": "RECOMPUTER_SUPER_J3011"
+                    "uri": "../devices/reserver-industrial-j3011.json",
+                    "id": "RESERVER_INDUSTRIAL_J3011"
                 },
                 {
-                    "uri": "../devices/recomputer-super-j4011.json",
-                    "id": "RECOMPUTER_SUPER_J4011"
+                    "uri": "../devices/reserver-industrial-j4011.json",
+                    "id": "RESERVER_INDUSTRIAL_J4011"
                 },
                 {
-                    "uri": "../devices/recomputer-super-j4012.json",
-                    "id": "RECOMPUTER_SUPER_J4012"
+                    "uri": "../devices/reserver-industrial-j4012.json",
+                    "id": "RESERVER_INDUSTRIAL_J4012"
                 }
             ],
             "products": [
                 "Jetson"
             ],
-            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-super-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j30-40.jpg",
             "storages": [
                 {
                     "id": "nvme",
@@ -74,8 +74,8 @@
                     "Enter the username and password of your %{targetName}."
                 ]
             },
-            "singularName": "reComputer Super Device",
-            "id": "RECOMPUTER_SUPER_TARGETS"
+            "singularName": "reServer Industrial Jetson Orin Device",
+            "id": "RESERVER_INDUSTRIAL_ORIN_TARGETS"
         }
     }
 }

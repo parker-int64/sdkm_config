@@ -6,31 +6,29 @@
         "schemaVersion": "1"
     },
     "hw": {
-        "RECOMPUTER_SUPER_TARGETS": {
-            "name": "reComputer Super devices",
+        "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS": {
+            "name": "reServer Industrial AGX Orin devices",
             "devices": [
                 {
-                    "uri": "../devices/recomputer-super-j3010.json",
-                    "id": "RECOMPUTER_SUPER_J3010"
+                    "id": "RESERVER_INDUSTRIAL_J501_AGX_ORIN_32",
+                    "uri": "../devices/reserver-industrial-j501-agx-orin-32gb.json"
                 },
                 {
-                    "uri": "../devices/recomputer-super-j3011.json",
-                    "id": "RECOMPUTER_SUPER_J3011"
-                },
-                {
-                    "uri": "../devices/recomputer-super-j4011.json",
-                    "id": "RECOMPUTER_SUPER_J4011"
-                },
-                {
-                    "uri": "../devices/recomputer-super-j4012.json",
-                    "id": "RECOMPUTER_SUPER_J4012"
+                    "id": "RESERVER_INDUSTRIAL_J501_AGX_ORIN_64",
+                    "uri": "../devices/reserver-industrial-j501-agx-orin-64gb.json"
                 }
             ],
             "products": [
                 "Jetson"
             ],
-            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-super-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j501.jpg",
             "storages": [
+                {
+                    "id": "default",
+                    "displayName": "EMMC (default)",
+                    "flashOptions": "",
+                    "note": "You may need to manually change the device boot order after flashing."
+                },
                 {
                     "id": "nvme",
                     "displayName": "NVMe",
@@ -41,7 +39,7 @@
                     "id": "usb",
                     "displayName": "USB",
                     "flashOptions": "--storage sda1",
-                    "note": "A minimum of 256GB space is recommended on the flash drive for USB storage.\nYou may need to turn off your firewall or set up your firewall to allow NFS in order to flash if you have one running.\nYou may need to manually change the device boot order after flashing. "
+                    "note": "A minimum of 256GB space is recommended on the flash drive for USB storage.\nYou may need to turn off your firewall or set up your firewall to allow NFS in order to flash if you have one running.\nYou may need to manually change the device boot order after flashing."
                 },
                 {
                     "id": "custom",
@@ -60,12 +58,11 @@
                     "Enter the connection information of your %{DEVICE_NAME}."
                 ],
                 "recoveryManual": [
-                    "Ensure the device is powered off and the power adapter disconnected.",
-                    "Verify the storage device for flashing is connected to the %{DEVICE_NAME} module.",
-                    "Place a jumper across the Force Recovery Mode pins.\n  These are pins 9 and 10 of the Button Header [J14].",
-                    "Connect your host computer to the device's USB Type-C connector.",
-                    "Connect the power adapter to the Power Jack [J16].\n  The device will automatically power on in Force Recovery Mode.",
-                    "Remove the jumper from the Force Recovery Mode pins."
+                    "Make sure the device is connected to the power adapter, but powered off.",
+                    "Connect the host computer to the front USB Type-C connector on the device.",
+                    "Press and hold the middle (Force Recovery) button.",
+                    "Press and hold the left (Power) button.",
+                    "Release both buttons."
                 ],
                 "targetAccess": [
                     "Complete the Ubuntu 'System configuration wizard' on your %{targetName}, if you have chosen to configure it manually before flashing.",
@@ -74,8 +71,8 @@
                     "Enter the username and password of your %{targetName}."
                 ]
             },
-            "singularName": "reComputer Super Device",
-            "id": "RECOMPUTER_SUPER_TARGETS"
+            "singularName": "reServer Industrial AGX Orin Device",
+            "id": "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
         }
     }
 }

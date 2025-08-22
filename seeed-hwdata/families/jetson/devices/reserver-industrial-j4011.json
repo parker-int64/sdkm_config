@@ -1,0 +1,36 @@
+{
+    "information": {
+        "title": null,
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "hw": {
+        "RESERVER_INDUSTRIAL_J4011": {
+            "name": "reServer Industrial J4011",
+            "products": [
+                "Jetson"
+            ],
+            "deviceIdentificationDetails": {
+                "moduleNames": [
+                    "P3767-0001 [8GB]"
+                ],
+                "moduleIds": [
+                    "3767-0001"
+                ],
+                "moduleDescription": "Jetson Orin NX 8GB Module",
+                "tegraRecoveryModeCodes": [
+                    "0955:7423"
+                ],
+                "carrierIds": [
+                    "j401i-0000"
+                ],
+                "carrierDescription": "reServer Industrial J401 carrier board",
+                "bootRomPreflashVerification": true
+            },
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-super-j30-40.png",
+            "storages": [],
+            "id": "RESERVER_INDUSTRIAL_J4011"
+        }
+    }
+}

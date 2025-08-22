@@ -100,6 +100,8 @@
                 "RECOMPUTER_SUPER_TARGETS",
                 "RECOMPUTER_INDUSTRIAL_TARGETS",
                 "RECOMPUTER_ROBOTICS_TARGETS",
+                "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS",
                 "IGX_ORIN_DEVKIT_DGPU_TARGETS",
                 "IGX_ORIN_DEVKIT_IGPU_TARGETS"
             ],

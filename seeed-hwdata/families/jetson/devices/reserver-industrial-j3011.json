@@ -1,0 +1,36 @@
+{
+    "information": {
+        "title": null,
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "hw": {
+        "RESERVER_INDUSTRIAL_J3011": {
+            "name": "reServer Industrial J3011",
+            "products": [
+                "Jetson"
+            ],
+            "deviceIdentificationDetails": {
+                "moduleNames": [
+                    "P3767-0003 [8GB]"
+                ],
+                "moduleIds": [
+                    "3767-0003"
+                ],
+                "moduleDescription": "Jetson Orin Nano 8GB Module",
+                "tegraRecoveryModeCodes": [
+                    "0955:7523"
+                ],
+                "carrierIds": [
+                    "j401i-0000"
+                ],
+                "carrierDescription": "reServer industrial J401 carrier board",
+                "bootRomPreflashVerification": true
+            },
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j30-40.jpg",
+            "storages": [],
+            "id": "RESERVER_INDUSTRIAL_J3011"
+        }
+    }
+}

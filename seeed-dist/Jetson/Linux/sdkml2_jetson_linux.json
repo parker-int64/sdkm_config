@@ -80,7 +80,9 @@
                     "RECOMPUTER_MINI_TARGETS",
                     "RECOMPUTER_SUPER_TARGETS",
                     "RECOMPUTER_INDUSTRIAL_TARGETS",
-                    "RECOMPUTER_ROBOTICS_TARGETS"
+                    "RECOMPUTER_ROBOTICS_TARGETS",
+                    "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                    "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",

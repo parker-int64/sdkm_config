@@ -1,0 +1,36 @@
+{
+    "information": {
+        "title": null,
+        "contentVersion": "0.0.1",
+        "buildNumber": "s100",
+        "schemaVersion": "1"
+    },
+    "hw": {
+        "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS": {
+            "name": "Jetson AGX Orin 64GB",
+            "products": [
+                "Jetson"
+            ],
+            "deviceIdentificationDetails": {
+                "moduleNames": [
+                    "P3701-0005 [64GB]"
+                ],
+                "moduleIds": [
+                    "3701-0005"
+                ],
+                "moduleDescription": "P3701-0005 module",
+                "tegraRecoveryModeCodes": [
+                    "0955:7023"
+                ],
+                "carrierIds": [
+                    "3737-0000"
+                ],
+                "carrierDescription": "reServer Industrial J501 carrier board",
+                "bootRomPreflashVerification": true
+            },
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j501.jpg",
+            "storages": [],
+            "id": "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
+        }
+    }
+}

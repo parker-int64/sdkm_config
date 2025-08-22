@@ -10,20 +10,20 @@
             "name": "reComputer Mini devices",
             "devices": [
                 {
-                    "uri": "../devices/recomputer-mini-j4012.json",
-                    "id": "RECOMPUTER_MINI_J4012"
+                    "uri": "../devices/recomputer-mini-j3010.json",
+                    "id": "RECOMPUTER_MINI_J3010"
                 },
                 {
                     "uri": "../devices/recomputer-mini-j3011.json",
                     "id": "RECOMPUTER_MINI_J3011"
                 },
                 {
-                    "uri": "../devices/recomputer-mini-j3010.json",
-                    "id": "RECOMPUTER_MINI_J3010"
-                },
-                {
                     "uri": "../devices/recomputer-mini-j4011.json",
                     "id": "RECOMPUTER_MINI_J4011"
+                },
+                {
+                    "uri": "../devices/recomputer-mini-j4012.json",
+                    "id": "RECOMPUTER_MINI_J4012"
                 }
             ],
             "products": [
